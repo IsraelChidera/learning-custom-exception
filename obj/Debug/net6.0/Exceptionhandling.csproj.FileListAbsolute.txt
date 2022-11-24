@@ -1,0 +1,15 @@
+C:\Users\ISREAL\source\repos\Exceptionhandling\Exceptionhandling\bin\Debug\net6.0\Exceptionhandling.exe
+C:\Users\ISREAL\source\repos\Exceptionhandling\Exceptionhandling\bin\Debug\net6.0\Exceptionhandling.deps.json
+C:\Users\ISREAL\source\repos\Exceptionhandling\Exceptionhandling\bin\Debug\net6.0\Exceptionhandling.runtimeconfig.json
+C:\Users\ISREAL\source\repos\Exceptionhandling\Exceptionhandling\bin\Debug\net6.0\Exceptionhandling.dll
+C:\Users\ISREAL\source\repos\Exceptionhandling\Exceptionhandling\bin\Debug\net6.0\Exceptionhandling.pdb
+C:\Users\ISREAL\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net6.0\Exceptionhandling.csproj.AssemblyReference.cache
+C:\Users\ISREAL\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net6.0\Exceptionhandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISREAL\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net6.0\Exceptionhandling.AssemblyInfoInputs.cache
+C:\Users\ISREAL\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net6.0\Exceptionhandling.AssemblyInfo.cs
+C:\Users\ISREAL\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net6.0\Exceptionhandling.csproj.CoreCompileInputs.cache
+C:\Users\ISREAL\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net6.0\Exceptionhandling.dll
+C:\Users\ISREAL\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net6.0\refint\Exceptionhandling.dll
+C:\Users\ISREAL\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net6.0\Exceptionhandling.pdb
+C:\Users\ISREAL\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net6.0\Exceptionhandling.genruntimeconfig.cache
+C:\Users\ISREAL\source\repos\Exceptionhandling\Exceptionhandling\obj\Debug\net6.0\ref\Exceptionhandling.dll

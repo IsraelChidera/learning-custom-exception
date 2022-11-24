@@ -1,0 +1,15 @@
+C:\Users\ISREAL\source\repos\Exceptionhandling\CustomsException\bin\Debug\net6.0\CustomsException.exe
+C:\Users\ISREAL\source\repos\Exceptionhandling\CustomsException\bin\Debug\net6.0\CustomsException.deps.json
+C:\Users\ISREAL\source\repos\Exceptionhandling\CustomsException\bin\Debug\net6.0\CustomsException.runtimeconfig.json
+C:\Users\ISREAL\source\repos\Exceptionhandling\CustomsException\bin\Debug\net6.0\CustomsException.dll
+C:\Users\ISREAL\source\repos\Exceptionhandling\CustomsException\bin\Debug\net6.0\CustomsException.pdb
+C:\Users\ISREAL\source\repos\Exceptionhandling\CustomsException\obj\Debug\net6.0\CustomsException.csproj.AssemblyReference.cache
+C:\Users\ISREAL\source\repos\Exceptionhandling\CustomsException\obj\Debug\net6.0\CustomsException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISREAL\source\repos\Exceptionhandling\CustomsException\obj\Debug\net6.0\CustomsException.AssemblyInfoInputs.cache
+C:\Users\ISREAL\source\repos\Exceptionhandling\CustomsException\obj\Debug\net6.0\CustomsException.AssemblyInfo.cs
+C:\Users\ISREAL\source\repos\Exceptionhandling\CustomsException\obj\Debug\net6.0\CustomsException.csproj.CoreCompileInputs.cache
+C:\Users\ISREAL\source\repos\Exceptionhandling\CustomsException\obj\Debug\net6.0\CustomsException.dll
+C:\Users\ISREAL\source\repos\Exceptionhandling\CustomsException\obj\Debug\net6.0\refint\CustomsException.dll
+C:\Users\ISREAL\source\repos\Exceptionhandling\CustomsException\obj\Debug\net6.0\CustomsException.pdb
+C:\Users\ISREAL\source\repos\Exceptionhandling\CustomsException\obj\Debug\net6.0\CustomsException.genruntimeconfig.cache
+C:\Users\ISREAL\source\repos\Exceptionhandling\CustomsException\obj\Debug\net6.0\ref\CustomsException.dll
